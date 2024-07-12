@@ -1,4 +1,5 @@
-# AI-chatbot
+### AI-chatbot
+## a full-stack AI chatbot using ChatGPT API and created with React, Node.js 
 
 1. create backend
 npm init -y
